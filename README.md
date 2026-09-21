@@ -5,7 +5,7 @@ My games development portfolio
 Level 3 Games Development student at Belfast Metropolitan College.
 Unreal Engine, C++, game audio.
 
-**Portfolio:**[ https://Waterplane/](https://github.com/Waterplane)
+**Portfolio:**[ https://Waterplane/](https://waterplane.github.io/)
 
 ## What is in here
 
